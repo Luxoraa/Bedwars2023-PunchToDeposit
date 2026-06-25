@@ -1,3 +1,4 @@
+<img width="1024" height="336" alt="bedwars2023-deposit-6-25-2026 (1)" src="https://github.com/user-attachments/assets/856f5f3f-e796-4b61-8e0d-22a4573a2354" />
 
 # BedWars2023 Deposit
 
