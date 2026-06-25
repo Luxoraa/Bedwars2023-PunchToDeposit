@@ -1,12 +1,12 @@
-# 🗃️ BedWars PunchToDeposit
+# BedWars2023 PunchToDeposit
 
 > A seamless BedWars resource deposit plugin for Minecraft servers — punch a chest, deposit everything. That's it.
 
 ## Overview
 
-**BedWars PunchToDeposit** is a lightweight yet powerful Spigot plugin built on top of [BedWars2023](https://github.com/tomkeuper/BedWars2023) that transforms how players interact with chests during BedWars games. Instead of opening a chest and manually moving items, players simply **punch a team chest or ender chest** to instantly deposit all matching resources from their inventory — making gameplay faster, smoother, and more competitive.
+**BedWars PunchToDeposit** is a lightweight yet powerful Spigot plugin built on top of [BedWars2023](https://github.com/tomkeuper/BedWars2023) that transforms how players interact with chests during BedWars games. Instead of opening a chest and manually moving items, players simply **punch a team chest or ender chest** to instantly deposit all matching resources from their inventory / making gameplay faster, smoother, and more competitive.
 
-Designed with performance in mind, the plugin reads item totals **directly from the chest inventory** rather than relying on fragile in-memory counters, ensuring the deposit total displayed to players is always accurate — no matter how many times they deposit or withdraw.
+Designed with performance in mind, the plugin reads item totals **directly from the chest inventory** rather than relying on fragile in-memory counters, ensuring the deposit total displayed to players is always accurate and no matter how many times they deposit or withdraw.
 
 
 ## Features
