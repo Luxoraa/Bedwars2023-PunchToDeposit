@@ -1,7 +1,7 @@
 
 # BedWars2023 Deposit
 
-> A seamless BedWars resource deposit plugin for Minecraft servers — punch a chest, deposit everything. That's it.
+> A seamless BedWars resource deposit plugin for Minecraft servers, punch a chest, deposit everything. That's it.
 
 ## Overview
 
