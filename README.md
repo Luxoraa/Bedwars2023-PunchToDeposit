@@ -1,3 +1,4 @@
+
 # BedWars2023 PunchToDeposit
 
 > A seamless BedWars resource deposit plugin for Minecraft servers — punch a chest, deposit everything. That's it.
@@ -38,3 +39,15 @@ Designed with performance in mind, the plugin reads item totals **directly from 
 | Java | 11+ |
 | Spigot / PaperSpigot | 1.8.8 – 1.21 |
 | BedWars2023 | 5.0.0+ |
+
+---
+
+## Plugin Startup
+
+<img width="3240" height="2036" alt="CONSOLE-LOGS" src="https://github.com/user-attachments/assets/7f71c21e-54e7-44d8-905d-172e0b9e82d5" />
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ by <strong>2axy</strong></sub>
+</div>
