@@ -2,8 +2,6 @@
 
 # BedWars2023 Deposit
 
-> A seamless BedWars resource deposit plugin for Minecraft servers, punch a chest, deposit everything. That's it.
-
 ## Overview
 
 **BedWars2023 Deposit** is a lightweight yet powerful Spigot plugin built on top of [BedWars2023](https://github.com/tomkeuper/BedWars2023) that transforms how players interact with chests during BedWars games. Instead of opening a chest and manually moving items, players simply **punch a team chest or ender chest** to instantly deposit all matching resources from their inventory / making gameplay faster, smoother, and more competitive.
